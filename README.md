@@ -1,6 +1,6 @@
 # WhmcsEpay
 
-WHMCS 易支付插件
+WHMCS 易支付插件，WHMCS对接易支付，支持mapi对接易支付
 
 ## 简介
 
